@@ -1,0 +1,39 @@
+<style>
+  .footer {
+    box-shadow: 0 -3px 6px rgba(0, 0, 0, 0.2);
+  }
+
+  .footer h5 {
+    font-weight: 600;
+    margin-bottom: 1rem;
+  }
+
+  .footer .footer-link { 
+    margin-top: 5px;
+    color: #ccc;
+    text-decoration: none;
+    display: block;
+    margin: 0.3rem 0;
+    transition: color 0.3s ease;
+  }
+
+  .footer .footer-link:hover {
+    color: #fff;
+  }
+
+  .footer .social-icon {
+    color: #ccc;
+    font-size: 1.2rem;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+  }
+
+  .footer .social-icon:hover {
+    color: #fff;
+  }
+
+  .footer .small-text {
+    font-size: 0.9rem;
+    color: #bbb;
+  }
+
